@@ -1,0 +1,13 @@
+name: kafka
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - faker=37.3.0
+  - ipykernel=7.1.0
+  - kafka-python=2.3.0
+  - openjdk=21.0.6
+  - pip=25.3
+  - pyspark=4.0.1
+  - python=3.11.13
+prefix: /Users/dsai/miniconda3/envs/kafka
